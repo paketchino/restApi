@@ -1,0 +1,6 @@
+GET http://94.198.50.185:7081/api/users
+Content-Type: application/json
+
+###
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
